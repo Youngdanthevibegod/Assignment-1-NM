@@ -13,9 +13,12 @@ The type(s) of execution for the money and temperature program is the Sequential
 
 **e) Possible Improvements:**
 The money program could be improved by:
-Using repeated execution, these will save time for the user or users
+Using repeated execution, these will save time for the user or users.
 The tendered amount given could be increased to have a more balance change,
 this will give a more clarifying data for how much change you can get using dollars and coins.
 
-The temperature program could be improved by :
+The temperature program could be improved by:
+Adding a user input so that they user can input their own temperature to convert.
+If there is a number that is very important I could add a constant to the program.
+
 
